@@ -22,7 +22,7 @@ $ node extract --input <HDS manifest (.f4m) file> --output [directory to store t
 
 ## Limitations
 
-HDS-Fragmenter currently supports both DRM-free video segments and video segments protected using Adobe Access. Special thanks go to Derek Spencer for testing and confirming this functionality works. If you have any additional inquires or requests about DRM functionality for HDS-Fragmenter do not hesitate to [contact](mailto://contact@opentelly.com) us.
+HDS-Fragmenter currently supports both DRM-free video segments and video segments protected using Adobe Access. Special thanks go to Derek Spencer for testing and confirming this functionality works. If you have any additional inquires or requests about DRM functionality for HDS-Fragmenter do not hesitate to [contact](mailto://contact@theoplayer.com) us.
 
 ## Bug tracker
 
@@ -46,8 +46,8 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/Op
 
 **OpenTelly**
 
-+ [Website](http://www.opentelly.com)
-+ [Email](mailto://contact@opentelly.com)
++ [Website](http://www.theoplayer.com)
++ [Email](mailto://contact@theoplayer.com)
 
 **Special thanks to**
 
@@ -55,7 +55,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/Op
 
 ## Copyright and license
 
-Copyright 2013 The Virtual Cable Company, BVBA.
+Copyright 2015 The Virtual Cable Company, BVBA.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this work except in compliance with the License.
