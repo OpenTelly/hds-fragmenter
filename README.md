@@ -44,7 +44,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/Op
 
 + [LinkedIn](http://be.linkedin.com/in/steventielemans)
 
-**OpenTelly**
+**THEOplayer**
 
 + [Website](http://www.theoplayer.com)
 + [Email](mailto://contact@theoplayer.com)
